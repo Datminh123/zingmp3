@@ -1,0 +1,27 @@
+/* Reset CSS */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    
+    font:16px Inter, sans-serif;
+}
+
+.container_header {
+    height: 70px;
+    width: 762px;
+    background: #000000 ;
+    margin: 0 -20px;
+    padding: 0 30px;
+}
+.content_search_history {
+    height: 40px;
+    width: 311px;
+    padding: 0 40px 0 0;
+}
+.container_header--content_btns {
+    
+}
